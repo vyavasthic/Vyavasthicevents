@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSearchParams } from 'react-router-dom';
-import AuthForm from '../components/auth/AuthForm';
+import AuthForm from './auth/AuthForm';
 
 export default function Auth() {
   const [searchParams] = useSearchParams();

@@ -1,7 +1,7 @@
 import React from 'react';
 import EventCard from '../components/events/EventCard';
 import { events } from '../data/events';
-import Prevgallary from './Prevgallary';
+import Prevgallary from '../components/Prevgallary';
 
 export default function Events() {
   return (

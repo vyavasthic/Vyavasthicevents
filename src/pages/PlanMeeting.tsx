@@ -1,6 +1,6 @@
 import React from 'react';
 import MeetingForm from '../components/meeting/MeetingForm';
-import Testimonials from './Testimonials';
+import Testimonials from '../components/Testimonials';
 
 export default function PlanMeeting() {
   return (
